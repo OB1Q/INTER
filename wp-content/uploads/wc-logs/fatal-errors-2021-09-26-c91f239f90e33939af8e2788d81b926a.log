@@ -1,0 +1,4 @@
+2021-09-26T08:33:33+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress/wp-content/themes/astral/inc/core/class-astra-theme-options.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\astra\functions.php on line 33
+
+2021-09-26T13:38:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2056
+
